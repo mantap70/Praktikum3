@@ -15,7 +15,7 @@ Kedua ketikan elif lalu masukkan "B > A and B > C" lalu kemudian print("bilangan
 Ketiga ketikan else lalu langsung ketikkan print("bilangan C lah yang terbesar"). maksudnya adalah ketika Perintah pertama dan kedua hasilnya tidak maka Perintah inilah yang akan di cetak.
 
 ## Hasil
-Jika program diatas dijalankan user akan disuruh untuk memasukkan 3 buah angka lalu akan di cari tahu manakah bilangan yang terbesar dan akan dicetak seperti gambar dibawah.
+Jika program diatas dijalankan user akan disuruh untuk memasukkan 3 buah angka lalu akan di cari tahu manakah bilangan yang terbesar dan akan dicetak seperti gambar disamping.
 ![Gambar 3](picture/execute.png)
 sebagai contoh saya memasukkan bilangan 1 = 90, bilangan 2 = 100, kemudian bilangan 3 = 110 dan hasilnya adalah bilangan 110 lah yang terbesar diantara bilangan 90 dan 100.
 
